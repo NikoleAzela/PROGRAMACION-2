@@ -1,0 +1,26 @@
+// Hola Mundo: Defines the entry point for the console application.
+// Autor: Nikole Azela Zurita Cossio
+// Fecha: 18/02/14
+#include "stdafx.h"
+
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	return 0;
+}
+
+// Hola Mundo: Defines the entry point for the console application.
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+using namespace std;
+
+
+int main() 
+{
+	cout <<"todo se puede \n \n\La envidia es tan flaca y amarilla por que muerde y no come";
+    getch ()
+    return 0
+}
